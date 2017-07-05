@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: suds
-Version: 0.4
+Version: 0.4.1
 Summary: Lightweight SOAP client
-Home-page: https://fedorahosted.org/suds
-Author: Jeff Ortel
-Author-email: jortel@redhat.com
+Home-page: https://github.com/jaimesanz/suds-webpay
+Author: Jaime Sanz
+Author-email: jimbosanz23@gmail.com
 License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN

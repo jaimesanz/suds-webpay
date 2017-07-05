@@ -1,7 +1,4 @@
-.project
-.pydevproject
 LICENSE
-README
 makefile
 python-suds.spec
 sdist
