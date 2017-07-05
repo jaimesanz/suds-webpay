@@ -16,6 +16,9 @@ For details, visit:
 RELEASE-NOTES:
 =================================================
 
+version 0.4.1 (07-05-17):
+  * make changes specified in http://www.transbankdevelopers.cl/?m=sdk in order to get WebPay working.
+
 version 0.3.6 (04-31-09):
   * Change hard coded /tmp/suds to tempfile.gettempdir() and create suds/ on demand.
   * Fix return type for Any.get_attribute().
