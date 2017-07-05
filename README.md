@@ -1,3 +1,5 @@
+This is a clone of the source code of python-suds found in https://pypi.python.org/pypi/suds. All credits go to the original author Jeff Ortel.
+
 OVERVIEW
 
 The "Suds" web services client is a lightweight soap-based client for python
