@@ -149,6 +149,3 @@ class null:
 def objid(obj):
     return obj.__class__.__name__\
         +':'+hex(id(obj))
-
-
-import client
